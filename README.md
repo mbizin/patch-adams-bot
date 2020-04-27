@@ -58,7 +58,7 @@ Currently Patch Adams Bot can:
 
 ### Current Patch Adams Bot Architecture
 
-![Architecture Diagram](/assets/diagram/arch-as-is.png)
+![Architecture Diagram](/assets/diagrams/arch-as-is.png)
 
 1. User search for Patch Adams Bot at Facebook Messenger or start a new chat by following link: ![Messenger Patch Adams Bot](m.me/PatchAdamsBot)
 2. User asks a question to Patch.
@@ -71,7 +71,7 @@ Currently Patch Adams Bot can:
 
 ### Future Patch Adams Bot Architecture
 
-![Architecture Diagram](/assets/diagram/arch-to-be.png)
+![Architecture Diagram](/assets/diagrams/arch-to-be.png)
 
 ## Documents
 
