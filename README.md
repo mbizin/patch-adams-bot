@@ -25,9 +25,9 @@
 
 A pandemic outbreak all over the world, this changes our lives forever and nothing else is more important than stay safe, stay at home. But, it means some sacrifices... people can't go to work, can't go outside, can't enjoy the nature, can't be with people they care about and there is many others side effects. People are feeling loneliness, anxiety, fear, fragility and panic, a lot of this feelings are caused by inaccurate information or misunderstanding.
 
-### How can technology help ?
+### How can technology help?
 
-We believe technology is critical to continue to take care of people, especially AI based technologies, because those technologies enable us to interacting with others and even to be closer through human kind dialog interfaces, no matter if by text, voice or visual. We've developed Patch Adams Bot to take care of people, focusing our efforts on how they consume informations and what is really relevant for us to overcome this heath crisis.
+We believe technology is critical to continue to take care of people, especially AI based technologies, because those technologies enable us to interacting with others and even to be closer through human kind dialog interfaces, no matter if by text, voice or visual. We've developed Patch Adams Bot to take care of people, focusing our efforts on how they consume information and what is really relevant for us to overcome this heath crisis.
 
 ## Video
 
@@ -35,7 +35,7 @@ We believe technology is critical to continue to take care of people, especially
 
 ## The idea
 
-Develop a virtual assistant capable of help people to take care of thenselfs and others by acquiring knowledge about COVID-19 and avoiding fake news, testing knowledge and having fun while interacting with it. Beyond getting tips of activities to do at home, enjoying the family, your pets and reducing bad feelings like anxiety and panic.
+Develop a virtual assistant Patch is capable of help people to take care of themselves and others by acquiring knowledge about COVID-19 and avoiding fake news, testing knowledge and having fun while interacting with it. Beyond getting tips of activities to do at home, enjoying the family, your pets and reducing bad feelings like anxiety and panic.
 
 Watson Assistant was used to create a human kind dialog interface relying on trusted sources and the inspiration for the persona has been Dr. Hunter Adams, who had his story turned into a film starring Robin Williams at 1998, Patch Adams. By the way, we get in touch with his team to tell about our project and they gave us support and also allowed us to name our bot as Patch Adams.
 
