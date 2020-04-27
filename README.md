@@ -46,9 +46,9 @@ Currently Patch Adams Bot can:
 - Provide updated statistics about the number of cases on the globe and by country
 - Guide how to prevent on many situations (at home, at hospitals, at a trip...) 
 - Inform about medical centers treating only COVID-19
-- Make suggestions, according user profile and health recommendations, like what kind activities to kids, to elders, to adults and pets do at home during quarantine
-- Guide what to do when user need to leave home or receiving packages
-- Assist users to take care of yourself and others, even when are somebody with COVID-19 recovering at your home
+- Make suggestions, according user profile and health recommendations, like what kind activities to kids, to elders, to adults and to pets do at home during quarantine
+- Guide what to do when user needs to leave home or receiving packages
+- Assist users to take care of himself and others, even when are somebody with COVID-19 recovering at your home
 - Teaching how to deal with and the most common fake news in Brazil
 - Test your knowledge by a Quiz! with scores that entertain you and helps to raise awareness about fake news
 
