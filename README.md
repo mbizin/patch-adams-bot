@@ -37,7 +37,7 @@ We believe technology is critical to continue to take care of people, especially
 
 Develop a virtual assistant capable of help people to take care of thenselfs and others by acquiring knowledge about COVID-19 and avoiding fake news, testing knowledge and having fun while interacting with it. Beyond getting tips of activities to do at home, enjoying the family, your pets and reducing bad feelings like anxiety and panic.
 
-Watson Assistant was used to create a human kind dialog interface relying on trusted sources and our inspiration for the persona were Dr. Hunter Adams, who had his story turned into a film starring Robin Williams at 1998, Patch Adams. By the way, we get in touch with his team to told about our project and they beyond give us support also allowed us to name our bot as Patch Adams.
+Watson Assistant was used to create a human kind dialog interface relying on trusted sources and our inspiration for the persona were Dr. Hunter Adams, who had his story turned into a film starring Robin Williams at 1998, Patch Adams. By the way, we get in touch with his team to told about our project and they gave us support and also allowed us to name our bot as Patch Adams.
 
 To improve engagement and also achieve person with visual disabilities we've plans to enable voice interaction using Watson Speech to Text and Watson Text to Speech. We also want to integrate Patch with Watson Visual Recognition to check if somebody is using the right mask when leave home is needed. A further step would be add geolocation to help users to find a better place to get medical assistance or even buy medicine.
 
