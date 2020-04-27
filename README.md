@@ -100,8 +100,7 @@ Currently Patch Adams Bot can:
 
 - [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
 - [Watson Image Recognition](https://www.ibm.com/cloud/watson-visual-recognition)
-- [Watson Knowledge Studio](https://www.ibm.com/watson/services/knowledge-studio/)
-- [Watson Natural Language Understanding](https://www.ibm.com/cloud/watson-natural-language-understanding)
+- [Watson Studio](https://www.ibm.com/watson/services/watson-studio/)
 - [Watson Speech to Text](https://www.ibm.com/cloud/watson-speech-to-text)
 - [Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech)
 - [IBM Cloud Functions](https://cloud.ibm.com/functions/)
@@ -109,7 +108,7 @@ Currently Patch Adams Bot can:
 ### Open source technology
 
 - [Node.js](https://nodejs.org/en/)
-- [Node-RED](https://nodered.org/)
+- [Nginx](https://www.nginx.com)
 
 ## Disclosures
 
