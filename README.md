@@ -60,7 +60,7 @@ Currently Patch Adams Bot can:
 
 ![Architecture Diagram](/assets/diagrams/arch-as-is.png)
 
-1. User search for Patch Adams Bot at Facebook Messenger or start a new chat by following link: ![Messenger Patch Adams Bot](m.me/PatchAdamsBot)
+1. User search for Patch Adams Bot at Facebook Messenger or start a new chat by following link: [Messenger Patch Adams Bot](https://m.me/PatchAdamsBot)
 2. User asks a question to Patch.
 3. Facebook Messenger App calls the Watson Assistant service hosted in IBM Cloud.
 4. Watson Assistant uses natural language understanding and machine learning to extract entities and intents of the user question.
